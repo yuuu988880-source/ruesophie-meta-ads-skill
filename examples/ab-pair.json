@@ -1,0 +1,26 @@
+{
+  "note": "Synthetic copy-only example, not a real product, image inspection, account setup or ad result.",
+  "variable": "overlay",
+  "a": {
+    "overlay": "Tailoring for the Whole Day",
+    "primary_text": "A tailored jacket and wide-leg trousers, styled for the moments between plans.",
+    "headline": "Discover the Tailoring Edit",
+    "description": "Explore the collection.",
+    "cta": "Shop Now",
+    "image": "same-synthetic-look-reference",
+    "layout": "same-font-size-position-logo",
+    "landing_page": "same-product-collection-reference",
+    "settings": {"market": "US", "objective": "sales", "budget": null, "attribution": null}
+  },
+  "b": {
+    "overlay": "Tailoring, In Your Own Rhythm",
+    "primary_text": "A tailored jacket and wide-leg trousers, styled for the moments between plans.",
+    "headline": "Discover the Tailoring Edit",
+    "description": "Explore the collection.",
+    "cta": "Shop Now",
+    "image": "same-synthetic-look-reference",
+    "layout": "same-font-size-position-logo",
+    "landing_page": "same-product-collection-reference",
+    "settings": {"market": "US", "objective": "sales", "budget": null, "attribution": null}
+  }
+}

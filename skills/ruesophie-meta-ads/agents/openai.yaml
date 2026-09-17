@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rue Sophie · Meta 素材测试"
+  short_description: "从整套穿搭生成品牌文案、广告标题、受众假设及实时趋势测试方案"
+  default_prompt: "使用 $ruesophie-meta-ads 分析我上传的整套穿搭，生成符合品牌语气的 Meta 素材文案和单变量 A/B 测试方案。"

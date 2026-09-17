@@ -1,0 +1,16 @@
+.DS_Store
+*.local.md
+private/
+research-cache/
+output/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pdf
+*.jpeg
+*.jpg
+*.png
+*.webp
+*.csv
+*.xlsx
